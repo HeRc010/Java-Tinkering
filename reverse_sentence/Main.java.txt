@@ -1,0 +1,23 @@
+import java.io.*;
+
+class Reverse {
+    public static String reverseSentence(String string) {
+	if (sentence == null) return sentence;
+
+	StringBuilder builder = new StringBuilder();
+	String[] words = sentence.split(" ");
+	for (int i = words.length - 1; i >= 0; --i) {
+	    builder.add(words[i]);
+	}
+
+	return builder.toString();
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+	System.out.println("Test Reverse:");
+
+	
+    }
+}
