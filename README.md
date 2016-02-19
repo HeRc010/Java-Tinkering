@@ -1,2 +1,2 @@
 # Java-Tinkering
-Miscilaneous problems and solutions in Java.
+Miscellaneous problems and solutions in Java.
